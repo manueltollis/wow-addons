@@ -5,14 +5,489 @@ BetterBagsDB = {
 ["Brews - Pozzo dell'Eternità"] = "Default",
 ["Tane - Pozzo dell'Eternità"] = "Default",
 ["Valantyr - Tarren Mill"] = "Default",
-["Morgiana - Pozzo dell'Eternità"] = "Default",
 ["Jitane - Pozzo dell'Eternità"] = "Default",
+["Morgiana - Pozzo dell'Eternità"] = "Default",
 ["Jitana - Pozzo dell'Eternità"] = "Default",
 },
 ["profiles"] = {
 ["Default"] = {
+["categoryOptions"] = {
+["Tailoring - Classic"] = {
+["shown"] = true,
+},
+["Consumable - Food & Drink - Shadowlands"] = {
+["shown"] = true,
+},
+["Miscellaneous - Reagent - Dragonflight"] = {
+["shown"] = true,
+},
+["Recipe - The War Within"] = {
+["shown"] = true,
+},
+["Hands"] = {
+["shown"] = true,
+},
+["Junk"] = {
+["shown"] = true,
+},
+["Consumable - Explosives and Devices - Battle for Azeroth"] = {
+["shown"] = true,
+},
+["Tradeskill - Legion"] = {
+["shown"] = true,
+},
+["Tradeskill - Dragonflight"] = {
+["shown"] = true,
+},
+["Head"] = {
+["shown"] = true,
+},
+["Profession Tool"] = {
+["shown"] = true,
+},
+["Key - Key - Classic"] = {
+["shown"] = true,
+},
+["Consumable - Other - Shadowlands"] = {
+["shown"] = true,
+},
+["Ranged"] = {
+["shown"] = true,
+},
+["Held In Off-hand"] = {
+["shown"] = true,
+},
+["One-Hand"] = {
+["shown"] = true,
+},
+["Consumable - Other - The War Within"] = {
+["shown"] = true,
+},
+["Gear: pvp arms"] = {
+["shown"] = true,
+},
+["Miscellaneous - Junk - The War Within"] = {
+["shown"] = true,
+},
+["Reagent"] = {
+["shown"] = true,
+},
+["Key"] = {
+["shown"] = true,
+},
+["Other - The War Within"] = {
+["shown"] = true,
+},
+["Reagent - Reagent - Battle for Azeroth"] = {
+["shown"] = true,
+},
+["Quest - Quest - Shadowlands"] = {
+["shown"] = true,
+},
+["Reagent - Shadowlands"] = {
+["shown"] = true,
+},
+["Jewelcrafting - The War Within"] = {
+["shown"] = true,
+},
+["Elemental - The War Within"] = {
+["shown"] = true,
+},
+["Herbalism - Shadowlands"] = {
+["shown"] = true,
+},
+["Tradeskill - Battle for Azeroth"] = {
+["shown"] = true,
+},
+["Gem"] = {
+["shown"] = true,
+},
+["Recipe - Leatherworking - The War Within"] = {
+["shown"] = true,
+},
+["Engineering - Shadowlands"] = {
+["shown"] = true,
+},
+["Shoulder"] = {
+["shown"] = true,
+},
+["Waist"] = {
+["shown"] = true,
+},
+["Consumable - Other - Dragonflight"] = {
+["shown"] = true,
+},
+["Back"] = {
+["shown"] = true,
+},
+["Gear: balance"] = {
+["shown"] = true,
+},
+["Consumable - Other - Classic"] = {
+["shown"] = true,
+},
+["Quest - Quest - Wrath of the Lich King"] = {
+["shown"] = true,
+},
+["Off Hand"] = {
+["shown"] = true,
+},
+["Item Enhancement - Feet - Shadowlands"] = {
+["shown"] = true,
+},
+["Item Enhancement - Dragonflight"] = {
+["shown"] = true,
+},
+["Quest - Quest - Legion"] = {
+["shown"] = true,
+},
+["Elemental - Battle for Azeroth"] = {
+["shown"] = true,
+},
+["Miscellaneous - Other - Dragonflight"] = {
+["shown"] = true,
+},
+["Miscellaneous - Junk - Classic"] = {
+["shown"] = true,
+},
+["Quest - Quest - The War Within"] = {
+["shown"] = true,
+},
+["Tradeskill - Warlords of Draenor"] = {
+["shown"] = true,
+},
+["Miscellaneous - Companion Pets - The War Within"] = {
+["shown"] = true,
+},
+["Consumable - Potions - Dragonflight"] = {
+["shown"] = true,
+},
+["Herbalism - The War Within"] = {
+["shown"] = true,
+},
+["Wrist"] = {
+["shown"] = true,
+},
+["Miscellaneous - Junk - Legion"] = {
+["shown"] = true,
+},
+["Quest - Quest - Classic"] = {
+["shown"] = true,
+},
+["Two-Hand"] = {
+["shown"] = true,
+},
+["Miscellaneous - The War Within"] = {
+["shown"] = true,
+},
+["Miscellaneous"] = {
+["shown"] = true,
+},
+["Free Space"] = {
+["shown"] = true,
+},
+["Consumable"] = {
+["shown"] = true,
+},
+["Miscellaneous - Junk - Battle for Azeroth"] = {
+["shown"] = true,
+},
+["Consumable - Other - Legion"] = {
+["shown"] = true,
+},
+["Miscellaneous - Junk - The Burning Crusade"] = {
+["shown"] = true,
+},
+["Miscellaneous - Warlords of Draenor"] = {
+["shown"] = true,
+},
+["Consumable - Potions - The War Within"] = {
+["shown"] = true,
+},
+["Cooking - The War Within"] = {
+["shown"] = true,
+},
+["Main Hand"] = {
+["shown"] = true,
+},
+["Recipe - Engineering - The War Within"] = {
+["shown"] = true,
+},
+["Consumable - Warlords of Draenor"] = {
+["shown"] = true,
+},
+["Tailoring - Battle for Azeroth"] = {
+["shown"] = true,
+},
+["Tailoring - The War Within"] = {
+["shown"] = true,
+},
+["Optional Reagents - The War Within"] = {
+["shown"] = true,
+},
+["Mining - Classic"] = {
+["shown"] = true,
+},
+["Consumable - Dragonflight"] = {
+["shown"] = true,
+},
+["Consumable - Vantus Runes - The War Within"] = {
+["shown"] = true,
+},
+["Miscellaneous - Other - Classic"] = {
+["shown"] = true,
+},
+["Chest"] = {
+["shown"] = true,
+},
+["Tailoring - Dragonflight"] = {
+["shown"] = true,
+},
+["Recipe - Tailoring - The War Within"] = {
+["shown"] = true,
+},
+["Tailoring - Shadowlands"] = {
+["shown"] = true,
+},
+["Key - Key - Battle for Azeroth"] = {
+["shown"] = true,
+},
+["Bag"] = {
+["shown"] = true,
+},
+["Tabard"] = {
+["shown"] = true,
+},
+["Mining - The War Within"] = {
+["shown"] = true,
+},
+["Trinket"] = {
+["shown"] = true,
+},
+["Cooking - Battle for Azeroth"] = {
+["shown"] = true,
+},
+["Quest - Quest - Dragonflight"] = {
+["shown"] = true,
+},
+["Elemental - Classic"] = {
+["shown"] = true,
+},
+["Gear: trasmlol"] = {
+["shown"] = true,
+},
+["Tradeskill - Classic"] = {
+["shown"] = true,
+},
+["Other - Cataclysm"] = {
+["shown"] = true,
+},
+["Consumable - Flasks & Phials - The War Within"] = {
+["shown"] = true,
+},
+["Recipe - Enchanting - The War Within"] = {
+["shown"] = true,
+},
+["Other - Wrath of the Lich King"] = {
+["shown"] = true,
+},
+["Consumable - Potions - The Burning Crusade"] = {
+["shown"] = true,
+},
+["Consumable - Other - Battle for Azeroth"] = {
+["shown"] = true,
+},
+["Recipe - Jewelcrafting - The War Within"] = {
+["shown"] = true,
+},
+["Feet"] = {
+["shown"] = true,
+},
+["Legs"] = {
+["shown"] = true,
+},
+["Miscellaneous - Other - Legion"] = {
+["shown"] = true,
+},
+["Quest - Classic"] = {
+["shown"] = true,
+},
+["Miscellaneous - Other - Battle for Azeroth"] = {
+["shown"] = true,
+},
+["Reagent - Keystone - Shadowlands"] = {
+["shown"] = true,
+},
+["Engineering - The War Within"] = {
+["shown"] = true,
+},
+["Consumable - Utility Curio - The War Within"] = {
+["shown"] = true,
+},
+["Elemental - Legion"] = {
+["shown"] = true,
+},
+["Elemental - Dragonflight"] = {
+["shown"] = true,
+},
+["Tradeskill - Shadowlands"] = {
+["shown"] = true,
+},
+["Consumable - Combat Curio - The War Within"] = {
+["shown"] = true,
+},
+["Miscellaneous - Other - The War Within"] = {
+["shown"] = true,
+},
+["Tradeskill"] = {
+["shown"] = true,
+},
+["Tradeskill - The War Within"] = {
+["shown"] = true,
+},
+["Tailoring - Mists of Pandaria"] = {
+["shown"] = true,
+},
+["Miscellaneous - Junk - Dragonflight"] = {
+["shown"] = true,
+},
+["Gear: assa"] = {
+["shown"] = true,
+},
+["Miscellaneous - Classic"] = {
+["shown"] = true,
+},
+["Recipe - Inscription - The War Within"] = {
+["shown"] = true,
+},
+["Gear: chest + head"] = {
+["shown"] = true,
+},
+["Tradeskill - The Burning Crusade"] = {
+["shown"] = true,
+},
+["Tradeskill - Mists of Pandaria"] = {
+["shown"] = true,
+},
+["Item Enhancement - Head - Dragonflight"] = {
+["shown"] = true,
+},
+["Leatherworking - The War Within"] = {
+["shown"] = true,
+},
+["Cooking - Shadowlands"] = {
+["shown"] = true,
+},
+["Miscellaneous - Shadowlands"] = {
+["shown"] = true,
+},
+["Consumable - Food & Drink - Classic"] = {
+["shown"] = true,
+},
+["Other - Dragonflight"] = {
+["shown"] = true,
+},
+["Consumable - Potions - Legion"] = {
+["shown"] = true,
+},
+["Gear: feral"] = {
+["shown"] = true,
+},
+["Tradeskill - Cataclysm"] = {
+["shown"] = true,
+},
+["Gear: head + feet"] = {
+["shown"] = true,
+},
+["Finger"] = {
+["shown"] = true,
+},
+["Neck"] = {
+["shown"] = true,
+},
+["Key - Battle for Azeroth"] = {
+["shown"] = true,
+},
+["Recent Items"] = {
+["shown"] = true,
+},
+["Quest - The War Within"] = {
+["shown"] = true,
+},
+["Recipe"] = {
+["shown"] = true,
+},
+["Miscellaneous - Other - Shadowlands"] = {
+["shown"] = true,
+},
+["Gear: sub"] = {
+["shown"] = true,
+},
+["Consumable - Food & Drink - The War Within"] = {
+["shown"] = true,
+},
+["Armor"] = {
+["shown"] = true,
+},
+["Consumable - Classic"] = {
+["shown"] = true,
+},
+["Item Enhancement"] = {
+["shown"] = true,
+},
+["Gem - Artifact Relic - Legion"] = {
+["shown"] = true,
+},
+["Consumable - Explosives and Devices - Warlords of Draenor"] = {
+["shown"] = true,
+},
+["Inscription - The War Within"] = {
+["shown"] = true,
+},
+["Quest"] = {
+["shown"] = true,
+},
+["Armor - Miscellaneous - Mists of Pandaria"] = {
+["shown"] = true,
+},
+["Miscellaneous - Mount Equipment - Battle for Azeroth"] = {
+["shown"] = true,
+},
+["Tailoring - Wrath of the Lich King"] = {
+["shown"] = true,
+},
+["Enchanting - Legion"] = {
+["shown"] = true,
+},
+["Miscellaneous - Dragonflight"] = {
+["shown"] = true,
+},
+["Miscellaneous - Other - Mists of Pandaria"] = {
+["shown"] = true,
+},
+["Cooking - Dragonflight"] = {
+["shown"] = true,
+},
+["Consumable - Explosives and Devices - The War Within"] = {
+["shown"] = true,
+},
+["Cooking - Wrath of the Lich King"] = {
+["shown"] = true,
+},
+["Gear: outlaw"] = {
+["shown"] = true,
+},
+["Herbalism - Mists of Pandaria"] = {
+["shown"] = true,
+},
+["Consumable - The War Within"] = {
+["shown"] = true,
+},
+["Consumable - Potions - Warlords of Draenor"] = {
+["shown"] = true,
+},
+},
 ["categorySell"] = true,
-["showBagButton"] = false,
 ["positions"] = {
 {
 ["y"] = 111.4998779296875,
@@ -927,14 +1402,14 @@ true,
 ["name"] = "Tradeskill - Classic",
 ["dynamic"] = true,
 },
-["Herbalism - Mists of Pandaria"] = {
+["Other - Cataclysm"] = {
 ["enabled"] = {
 true,
 [0] = true,
 },
 ["itemList"] = {
 },
-["name"] = "Herbalism - Mists of Pandaria",
+["name"] = "Other - Cataclysm",
 ["dynamic"] = true,
 },
 ["Consumable - Flasks & Phials - The War Within"] = {
@@ -967,14 +1442,14 @@ true,
 ["name"] = "Other - Wrath of the Lich King",
 ["dynamic"] = true,
 },
-["Cooking - Wrath of the Lich King"] = {
+["Consumable - Potions - The Burning Crusade"] = {
 ["enabled"] = {
 true,
 [0] = true,
 },
 ["itemList"] = {
 },
-["name"] = "Cooking - Wrath of the Lich King",
+["name"] = "Consumable - Potions - The Burning Crusade",
 ["dynamic"] = true,
 },
 ["Consumable - Other - Battle for Azeroth"] = {
@@ -997,24 +1472,24 @@ true,
 ["name"] = "Recipe - Jewelcrafting - The War Within",
 ["dynamic"] = true,
 },
-["Cooking - Dragonflight"] = {
+["Miscellaneous - Classic"] = {
 ["enabled"] = {
 true,
 [0] = true,
 },
 ["itemList"] = {
 },
-["name"] = "Cooking - Dragonflight",
+["name"] = "Miscellaneous - Classic",
 ["dynamic"] = true,
 },
-["Tailoring - The War Within"] = {
+["Armor - Miscellaneous - Mists of Pandaria"] = {
 ["enabled"] = {
 true,
 [0] = true,
 },
 ["itemList"] = {
 },
-["name"] = "Tailoring - The War Within",
+["name"] = "Armor - Miscellaneous - Mists of Pandaria",
 ["dynamic"] = true,
 },
 ["Miscellaneous - Other - Legion"] = {
@@ -1047,24 +1522,24 @@ true,
 ["name"] = "Miscellaneous - Other - Battle for Azeroth",
 ["dynamic"] = true,
 },
-["Miscellaneous - Dragonflight"] = {
+["Reagent - Keystone - Shadowlands"] = {
 ["enabled"] = {
 true,
 [0] = true,
 },
 ["itemList"] = {
 },
-["name"] = "Miscellaneous - Dragonflight",
+["name"] = "Reagent - Keystone - Shadowlands",
 ["dynamic"] = true,
 },
-["Engineering - The War Within"] = {
+["Enchanting - Legion"] = {
 ["enabled"] = {
 true,
 [0] = true,
 },
 ["itemList"] = {
 },
-["name"] = "Engineering - The War Within",
+["name"] = "Enchanting - Legion",
 ["dynamic"] = true,
 },
 ["Consumable - Utility Curio - The War Within"] = {
@@ -1097,54 +1572,54 @@ true,
 ["name"] = "Legs",
 ["dynamic"] = true,
 },
-["Junk"] = {
+["Tradeskill - Shadowlands"] = {
 ["enabled"] = {
 true,
 [0] = true,
 },
 ["itemList"] = {
 },
-["name"] = "Junk",
+["name"] = "Tradeskill - Shadowlands",
 ["dynamic"] = true,
 },
-["Item Enhancement - Head - Dragonflight"] = {
+["Inscription - The War Within"] = {
 ["enabled"] = {
 true,
 [0] = true,
 },
 ["itemList"] = {
 },
-["name"] = "Item Enhancement - Head - Dragonflight",
+["name"] = "Inscription - The War Within",
 ["dynamic"] = true,
 },
-["Other - Dragonflight"] = {
+["Miscellaneous - Other - The War Within"] = {
 ["enabled"] = {
 true,
 [0] = true,
 },
 ["itemList"] = {
 },
-["name"] = "Other - Dragonflight",
+["name"] = "Miscellaneous - Other - The War Within",
 ["dynamic"] = true,
 },
-["Consumable - Combat Curio - The War Within"] = {
+["Tailoring - Mists of Pandaria"] = {
 ["enabled"] = {
 true,
 [0] = true,
 },
 ["itemList"] = {
 },
-["name"] = "Consumable - Combat Curio - The War Within",
+["name"] = "Tailoring - Mists of Pandaria",
 ["dynamic"] = true,
 },
-["Miscellaneous - Junk - Dragonflight"] = {
+["Consumable - Explosives and Devices - Warlords of Draenor"] = {
 ["enabled"] = {
 true,
 [0] = true,
 },
 ["itemList"] = {
 },
-["name"] = "Miscellaneous - Junk - Dragonflight",
+["name"] = "Consumable - Explosives and Devices - Warlords of Draenor",
 ["dynamic"] = true,
 },
 ["Tradeskill"] = {
@@ -1157,14 +1632,14 @@ true,
 ["name"] = "Tradeskill",
 ["dynamic"] = true,
 },
-["Tradeskill - The War Within"] = {
+["Miscellaneous - Junk - Dragonflight"] = {
 ["enabled"] = {
 true,
 [0] = true,
 },
 ["itemList"] = {
 },
-["name"] = "Tradeskill - The War Within",
+["name"] = "Miscellaneous - Junk - Dragonflight",
 ["dynamic"] = true,
 },
 ["Gear: assa"] = {
@@ -1177,14 +1652,14 @@ true,
 ["name"] = "Gear: assa",
 ["dynamic"] = true,
 },
-["Gem - Artifact Relic - Legion"] = {
+["Gear: chest + head"] = {
 ["enabled"] = {
 true,
 [0] = true,
 },
 ["itemList"] = {
 },
-["name"] = "Gem - Artifact Relic - Legion",
+["name"] = "Gear: chest + head",
 ["dynamic"] = true,
 },
 ["Recipe - Inscription - The War Within"] = {
@@ -1197,16 +1672,6 @@ true,
 ["name"] = "Recipe - Inscription - The War Within",
 ["dynamic"] = true,
 },
-["Tradeskill - The Burning Crusade"] = {
-["enabled"] = {
-true,
-[0] = true,
-},
-["itemList"] = {
-},
-["name"] = "Tradeskill - The Burning Crusade",
-["dynamic"] = true,
-},
 ["Gear: feral"] = {
 ["enabled"] = {
 true,
@@ -1215,6 +1680,16 @@ true,
 ["itemList"] = {
 },
 ["name"] = "Gear: feral",
+["dynamic"] = true,
+},
+["Tradeskill - The Burning Crusade"] = {
+["enabled"] = {
+true,
+[0] = true,
+},
+["itemList"] = {
+},
+["name"] = "Tradeskill - The Burning Crusade",
 ["dynamic"] = true,
 },
 ["Item Enhancement"] = {
@@ -1227,24 +1702,24 @@ true,
 ["name"] = "Item Enhancement",
 ["dynamic"] = true,
 },
-["Recent Items"] = {
+["Miscellaneous - Other - Mists of Pandaria"] = {
 ["enabled"] = {
 true,
 [0] = true,
 },
 ["itemList"] = {
 },
-["name"] = "Recent Items",
+["name"] = "Miscellaneous - Other - Mists of Pandaria",
 ["dynamic"] = true,
 },
-["Cooking - Shadowlands"] = {
+["Gear: balance"] = {
 ["enabled"] = {
 true,
 [0] = true,
 },
 ["itemList"] = {
 },
-["name"] = "Cooking - Shadowlands",
+["name"] = "Gear: balance",
 ["dynamic"] = true,
 },
 ["Tradeskill - Mists of Pandaria"] = {
@@ -1297,24 +1772,24 @@ true,
 ["name"] = "Consumable - Potions - Legion",
 ["dynamic"] = true,
 },
-["Leatherworking - The War Within"] = {
+["Gear: sub"] = {
 ["enabled"] = {
 true,
 [0] = true,
 },
 ["itemList"] = {
 },
-["name"] = "Leatherworking - The War Within",
+["name"] = "Gear: sub",
 ["dynamic"] = true,
 },
-["Quest - Quest - Dragonflight"] = {
+["Tradeskill - Cataclysm"] = {
 ["enabled"] = {
 true,
 [0] = true,
 },
 ["itemList"] = {
 },
-["name"] = "Quest - Quest - Dragonflight",
+["name"] = "Tradeskill - Cataclysm",
 ["dynamic"] = true,
 },
 ["Gear: head + feet"] = {
@@ -1347,24 +1822,24 @@ true,
 ["name"] = "Neck",
 ["dynamic"] = true,
 },
-["Tradeskill - Cataclysm"] = {
+["Quest - Quest - Dragonflight"] = {
 ["enabled"] = {
 true,
 [0] = true,
 },
 ["itemList"] = {
 },
-["name"] = "Tradeskill - Cataclysm",
+["name"] = "Quest - Quest - Dragonflight",
 ["dynamic"] = true,
 },
-["Gear: sub"] = {
+["Leatherworking - The War Within"] = {
 ["enabled"] = {
 true,
 [0] = true,
 },
 ["itemList"] = {
 },
-["name"] = "Gear: sub",
+["name"] = "Leatherworking - The War Within",
 ["dynamic"] = true,
 },
 ["Quest - The War Within"] = {
@@ -1397,24 +1872,24 @@ true,
 ["name"] = "Miscellaneous - Other - Shadowlands",
 ["dynamic"] = true,
 },
-["Gear: balance"] = {
+["Cooking - Shadowlands"] = {
 ["enabled"] = {
 true,
 [0] = true,
 },
 ["itemList"] = {
 },
-["name"] = "Gear: balance",
+["name"] = "Cooking - Shadowlands",
 ["dynamic"] = true,
 },
-["Miscellaneous - Other - Mists of Pandaria"] = {
+["Recent Items"] = {
 ["enabled"] = {
 true,
 [0] = true,
 },
 ["itemList"] = {
 },
-["name"] = "Miscellaneous - Other - Mists of Pandaria",
+["name"] = "Recent Items",
 ["dynamic"] = true,
 },
 ["Armor"] = {
@@ -1437,64 +1912,64 @@ true,
 ["name"] = "Consumable - Classic",
 ["dynamic"] = true,
 },
-["Gear: chest + head"] = {
+["Gem - Artifact Relic - Legion"] = {
 ["enabled"] = {
 true,
 [0] = true,
 },
 ["itemList"] = {
 },
-["name"] = "Gear: chest + head",
+["name"] = "Gem - Artifact Relic - Legion",
 ["dynamic"] = true,
 },
-["Consumable - Explosives and Devices - Warlords of Draenor"] = {
+["Tradeskill - The War Within"] = {
 ["enabled"] = {
 true,
 [0] = true,
 },
 ["itemList"] = {
 },
-["name"] = "Consumable - Explosives and Devices - Warlords of Draenor",
+["name"] = "Tradeskill - The War Within",
 ["dynamic"] = true,
 },
-["Tailoring - Mists of Pandaria"] = {
+["Consumable - Combat Curio - The War Within"] = {
 ["enabled"] = {
 true,
 [0] = true,
 },
 ["itemList"] = {
 },
-["name"] = "Tailoring - Mists of Pandaria",
+["name"] = "Consumable - Combat Curio - The War Within",
 ["dynamic"] = true,
 },
-["Miscellaneous - Other - The War Within"] = {
+["Other - Dragonflight"] = {
 ["enabled"] = {
 true,
 [0] = true,
 },
 ["itemList"] = {
 },
-["name"] = "Miscellaneous - Other - The War Within",
+["name"] = "Other - Dragonflight",
 ["dynamic"] = true,
 },
-["Inscription - The War Within"] = {
+["Item Enhancement - Head - Dragonflight"] = {
 ["enabled"] = {
 true,
 [0] = true,
 },
 ["itemList"] = {
 },
-["name"] = "Inscription - The War Within",
+["name"] = "Item Enhancement - Head - Dragonflight",
 ["dynamic"] = true,
 },
-["Tradeskill - Shadowlands"] = {
+["Junk"] = {
 ["enabled"] = {
 true,
 [0] = true,
 },
 ["itemList"] = {
 },
-["name"] = "Tradeskill - Shadowlands",
+["name"] = "Junk",
 ["dynamic"] = true,
 },
 ["Miscellaneous - Mount Equipment - Battle for Azeroth"] = {
@@ -1517,44 +1992,44 @@ true,
 ["name"] = "Tailoring - Wrath of the Lich King",
 ["dynamic"] = true,
 },
-["Enchanting - Legion"] = {
+["Engineering - The War Within"] = {
 ["enabled"] = {
 true,
 [0] = true,
 },
 ["itemList"] = {
 },
-["name"] = "Enchanting - Legion",
+["name"] = "Engineering - The War Within",
 ["dynamic"] = true,
 },
-["Reagent - Keystone - Shadowlands"] = {
+["Miscellaneous - Dragonflight"] = {
 ["enabled"] = {
 true,
 [0] = true,
 },
 ["itemList"] = {
 },
-["name"] = "Reagent - Keystone - Shadowlands",
+["name"] = "Miscellaneous - Dragonflight",
 ["dynamic"] = true,
 },
-["Armor - Miscellaneous - Mists of Pandaria"] = {
+["Tailoring - The War Within"] = {
 ["enabled"] = {
 true,
 [0] = true,
 },
 ["itemList"] = {
 },
-["name"] = "Armor - Miscellaneous - Mists of Pandaria",
+["name"] = "Tailoring - The War Within",
 ["dynamic"] = true,
 },
-["Miscellaneous - Classic"] = {
+["Cooking - Dragonflight"] = {
 ["enabled"] = {
 true,
 [0] = true,
 },
 ["itemList"] = {
 },
-["name"] = "Miscellaneous - Classic",
+["name"] = "Cooking - Dragonflight",
 ["dynamic"] = true,
 },
 ["Consumable - Explosives and Devices - The War Within"] = {
@@ -1567,14 +2042,14 @@ true,
 ["name"] = "Consumable - Explosives and Devices - The War Within",
 ["dynamic"] = true,
 },
-["Consumable - Potions - The Burning Crusade"] = {
+["Cooking - Wrath of the Lich King"] = {
 ["enabled"] = {
 true,
 [0] = true,
 },
 ["itemList"] = {
 },
-["name"] = "Consumable - Potions - The Burning Crusade",
+["name"] = "Cooking - Wrath of the Lich King",
 ["dynamic"] = true,
 },
 ["Gear: outlaw"] = {
@@ -1587,14 +2062,14 @@ true,
 ["name"] = "Gear: outlaw",
 ["dynamic"] = true,
 },
-["Other - Cataclysm"] = {
+["Herbalism - Mists of Pandaria"] = {
 ["enabled"] = {
 true,
 [0] = true,
 },
 ["itemList"] = {
 },
-["name"] = "Other - Cataclysm",
+["name"] = "Herbalism - Mists of Pandaria",
 ["dynamic"] = true,
 },
 ["Consumable - The War Within"] = {
@@ -1632,482 +2107,7 @@ true,
 ["Expansion"] = true,
 },
 },
-["categoryOptions"] = {
-["Tailoring - Classic"] = {
-["shown"] = true,
-},
-["Consumable - Food & Drink - Shadowlands"] = {
-["shown"] = true,
-},
-["Miscellaneous - Reagent - Dragonflight"] = {
-["shown"] = true,
-},
-["Recipe - The War Within"] = {
-["shown"] = true,
-},
-["Hands"] = {
-["shown"] = true,
-},
-["Junk"] = {
-["shown"] = true,
-},
-["Consumable - Explosives and Devices - Battle for Azeroth"] = {
-["shown"] = true,
-},
-["Tradeskill - Legion"] = {
-["shown"] = true,
-},
-["Tradeskill - Dragonflight"] = {
-["shown"] = true,
-},
-["Head"] = {
-["shown"] = true,
-},
-["Profession Tool"] = {
-["shown"] = true,
-},
-["Key - Key - Classic"] = {
-["shown"] = true,
-},
-["Consumable - Other - Shadowlands"] = {
-["shown"] = true,
-},
-["Ranged"] = {
-["shown"] = true,
-},
-["Held In Off-hand"] = {
-["shown"] = true,
-},
-["One-Hand"] = {
-["shown"] = true,
-},
-["Consumable - Other - The War Within"] = {
-["shown"] = true,
-},
-["Gear: pvp arms"] = {
-["shown"] = true,
-},
-["Miscellaneous - Junk - The War Within"] = {
-["shown"] = true,
-},
-["Reagent"] = {
-["shown"] = true,
-},
-["Key"] = {
-["shown"] = true,
-},
-["Other - The War Within"] = {
-["shown"] = true,
-},
-["Reagent - Reagent - Battle for Azeroth"] = {
-["shown"] = true,
-},
-["Quest - Quest - Shadowlands"] = {
-["shown"] = true,
-},
-["Reagent - Shadowlands"] = {
-["shown"] = true,
-},
-["Jewelcrafting - The War Within"] = {
-["shown"] = true,
-},
-["Elemental - The War Within"] = {
-["shown"] = true,
-},
-["Herbalism - Shadowlands"] = {
-["shown"] = true,
-},
-["Tradeskill - Battle for Azeroth"] = {
-["shown"] = true,
-},
-["Gem"] = {
-["shown"] = true,
-},
-["Recipe - Leatherworking - The War Within"] = {
-["shown"] = true,
-},
-["Engineering - Shadowlands"] = {
-["shown"] = true,
-},
-["Shoulder"] = {
-["shown"] = true,
-},
-["Waist"] = {
-["shown"] = true,
-},
-["Consumable - Other - Dragonflight"] = {
-["shown"] = true,
-},
-["Back"] = {
-["shown"] = true,
-},
-["Gear: balance"] = {
-["shown"] = true,
-},
-["Consumable - Other - Classic"] = {
-["shown"] = true,
-},
-["Quest - Quest - Wrath of the Lich King"] = {
-["shown"] = true,
-},
-["Off Hand"] = {
-["shown"] = true,
-},
-["Item Enhancement - Feet - Shadowlands"] = {
-["shown"] = true,
-},
-["Item Enhancement - Dragonflight"] = {
-["shown"] = true,
-},
-["Quest - Quest - Legion"] = {
-["shown"] = true,
-},
-["Elemental - Battle for Azeroth"] = {
-["shown"] = true,
-},
-["Miscellaneous - Other - Dragonflight"] = {
-["shown"] = true,
-},
-["Miscellaneous - Junk - Classic"] = {
-["shown"] = true,
-},
-["Quest - Quest - The War Within"] = {
-["shown"] = true,
-},
-["Tradeskill - Warlords of Draenor"] = {
-["shown"] = true,
-},
-["Miscellaneous - Companion Pets - The War Within"] = {
-["shown"] = true,
-},
-["Consumable - Potions - Dragonflight"] = {
-["shown"] = true,
-},
-["Herbalism - The War Within"] = {
-["shown"] = true,
-},
-["Wrist"] = {
-["shown"] = true,
-},
-["Miscellaneous - Junk - Legion"] = {
-["shown"] = true,
-},
-["Quest - Quest - Classic"] = {
-["shown"] = true,
-},
-["Two-Hand"] = {
-["shown"] = true,
-},
-["Miscellaneous - The War Within"] = {
-["shown"] = true,
-},
-["Miscellaneous"] = {
-["shown"] = true,
-},
-["Free Space"] = {
-["shown"] = true,
-},
-["Consumable"] = {
-["shown"] = true,
-},
-["Miscellaneous - Junk - Battle for Azeroth"] = {
-["shown"] = true,
-},
-["Consumable - Other - Legion"] = {
-["shown"] = true,
-},
-["Miscellaneous - Junk - The Burning Crusade"] = {
-["shown"] = true,
-},
-["Miscellaneous - Warlords of Draenor"] = {
-["shown"] = true,
-},
-["Consumable - Potions - The War Within"] = {
-["shown"] = true,
-},
-["Cooking - The War Within"] = {
-["shown"] = true,
-},
-["Main Hand"] = {
-["shown"] = true,
-},
-["Recipe - Engineering - The War Within"] = {
-["shown"] = true,
-},
-["Consumable - Warlords of Draenor"] = {
-["shown"] = true,
-},
-["Tailoring - Battle for Azeroth"] = {
-["shown"] = true,
-},
-["Tailoring - The War Within"] = {
-["shown"] = true,
-},
-["Optional Reagents - The War Within"] = {
-["shown"] = true,
-},
-["Mining - Classic"] = {
-["shown"] = true,
-},
-["Consumable - Dragonflight"] = {
-["shown"] = true,
-},
-["Consumable - Vantus Runes - The War Within"] = {
-["shown"] = true,
-},
-["Miscellaneous - Other - Classic"] = {
-["shown"] = true,
-},
-["Chest"] = {
-["shown"] = true,
-},
-["Tailoring - Dragonflight"] = {
-["shown"] = true,
-},
-["Recipe - Tailoring - The War Within"] = {
-["shown"] = true,
-},
-["Tailoring - Shadowlands"] = {
-["shown"] = true,
-},
-["Key - Key - Battle for Azeroth"] = {
-["shown"] = true,
-},
-["Bag"] = {
-["shown"] = true,
-},
-["Tabard"] = {
-["shown"] = true,
-},
-["Mining - The War Within"] = {
-["shown"] = true,
-},
-["Trinket"] = {
-["shown"] = true,
-},
-["Cooking - Battle for Azeroth"] = {
-["shown"] = true,
-},
-["Quest - Quest - Dragonflight"] = {
-["shown"] = true,
-},
-["Elemental - Classic"] = {
-["shown"] = true,
-},
-["Gear: trasmlol"] = {
-["shown"] = true,
-},
-["Tradeskill - Classic"] = {
-["shown"] = true,
-},
-["Herbalism - Mists of Pandaria"] = {
-["shown"] = true,
-},
-["Consumable - Flasks & Phials - The War Within"] = {
-["shown"] = true,
-},
-["Recipe - Enchanting - The War Within"] = {
-["shown"] = true,
-},
-["Other - Wrath of the Lich King"] = {
-["shown"] = true,
-},
-["Cooking - Wrath of the Lich King"] = {
-["shown"] = true,
-},
-["Consumable - Other - Battle for Azeroth"] = {
-["shown"] = true,
-},
-["Recipe - Jewelcrafting - The War Within"] = {
-["shown"] = true,
-},
-["Cooking - Dragonflight"] = {
-["shown"] = true,
-},
-["Miscellaneous - Other - Mists of Pandaria"] = {
-["shown"] = true,
-},
-["Miscellaneous - Other - Legion"] = {
-["shown"] = true,
-},
-["Quest - Classic"] = {
-["shown"] = true,
-},
-["Miscellaneous - Other - Battle for Azeroth"] = {
-["shown"] = true,
-},
-["Miscellaneous - Dragonflight"] = {
-["shown"] = true,
-},
-["Enchanting - Legion"] = {
-["shown"] = true,
-},
-["Consumable - Utility Curio - The War Within"] = {
-["shown"] = true,
-},
-["Elemental - Legion"] = {
-["shown"] = true,
-},
-["Elemental - Dragonflight"] = {
-["shown"] = true,
-},
-["Armor - Miscellaneous - Mists of Pandaria"] = {
-["shown"] = true,
-},
-["Quest"] = {
-["shown"] = true,
-},
-["Inscription - The War Within"] = {
-["shown"] = true,
-},
-["Tailoring - Mists of Pandaria"] = {
-["shown"] = true,
-},
-["Gear: assa"] = {
-["shown"] = true,
-},
-["Consumable - Explosives and Devices - Warlords of Draenor"] = {
-["shown"] = true,
-},
-["Miscellaneous - Junk - Dragonflight"] = {
-["shown"] = true,
-},
-["Gem - Artifact Relic - Legion"] = {
-["shown"] = true,
-},
-["Item Enhancement"] = {
-["shown"] = true,
-},
-["Recipe - Inscription - The War Within"] = {
-["shown"] = true,
-},
-["Gear: chest + head"] = {
-["shown"] = true,
-},
-["Tradeskill - The Burning Crusade"] = {
-["shown"] = true,
-},
-["Tradeskill - Mists of Pandaria"] = {
-["shown"] = true,
-},
-["Consumable - Food & Drink - The War Within"] = {
-["shown"] = true,
-},
-["Gear: sub"] = {
-["shown"] = true,
-},
-["Cooking - Shadowlands"] = {
-["shown"] = true,
-},
-["Miscellaneous - Shadowlands"] = {
-["shown"] = true,
-},
-["Consumable - Food & Drink - Classic"] = {
-["shown"] = true,
-},
-["Other - Dragonflight"] = {
-["shown"] = true,
-},
-["Consumable - Potions - Legion"] = {
-["shown"] = true,
-},
-["Recent Items"] = {
-["shown"] = true,
-},
-["Key - Battle for Azeroth"] = {
-["shown"] = true,
-},
-["Gear: head + feet"] = {
-["shown"] = true,
-},
-["Finger"] = {
-["shown"] = true,
-},
-["Neck"] = {
-["shown"] = true,
-},
-["Tradeskill - Cataclysm"] = {
-["shown"] = true,
-},
-["Gear: feral"] = {
-["shown"] = true,
-},
-["Quest - The War Within"] = {
-["shown"] = true,
-},
-["Recipe"] = {
-["shown"] = true,
-},
-["Miscellaneous - Other - Shadowlands"] = {
-["shown"] = true,
-},
-["Leatherworking - The War Within"] = {
-["shown"] = true,
-},
-["Item Enhancement - Head - Dragonflight"] = {
-["shown"] = true,
-},
-["Armor"] = {
-["shown"] = true,
-},
-["Consumable - Classic"] = {
-["shown"] = true,
-},
-["Miscellaneous - Classic"] = {
-["shown"] = true,
-},
-["Tradeskill - The War Within"] = {
-["shown"] = true,
-},
-["Tradeskill"] = {
-["shown"] = true,
-},
-["Miscellaneous - Other - The War Within"] = {
-["shown"] = true,
-},
-["Consumable - Combat Curio - The War Within"] = {
-["shown"] = true,
-},
-["Tradeskill - Shadowlands"] = {
-["shown"] = true,
-},
-["Miscellaneous - Mount Equipment - Battle for Azeroth"] = {
-["shown"] = true,
-},
-["Tailoring - Wrath of the Lich King"] = {
-["shown"] = true,
-},
-["Engineering - The War Within"] = {
-["shown"] = true,
-},
-["Reagent - Keystone - Shadowlands"] = {
-["shown"] = true,
-},
-["Legs"] = {
-["shown"] = true,
-},
-["Feet"] = {
-["shown"] = true,
-},
-["Consumable - Explosives and Devices - The War Within"] = {
-["shown"] = true,
-},
-["Consumable - Potions - The Burning Crusade"] = {
-["shown"] = true,
-},
-["Gear: outlaw"] = {
-["shown"] = true,
-},
-["Other - Cataclysm"] = {
-["shown"] = true,
-},
-["Consumable - The War Within"] = {
-["shown"] = true,
-},
-["Consumable - Potions - Warlords of Draenor"] = {
-["shown"] = true,
-},
-},
+["showBagButton"] = false,
 ["stacking"] = {
 [0] = {
 ["dontMergePartial"] = true,

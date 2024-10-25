@@ -1,387 +1,8 @@
 
 Blizzard_Console_SavedVars = {
 ["version"] = 3,
+["height"] = 300,
 ["messageHistory"] = {
-{
-"SSAO mode set to 4",
-0,
-},
-{
-"SSAO type set to 0",
-0,
-},
-{
-"Depth Based Opacity Enabled",
-0,
-},
-{
-"SkyCloudLOD set to 0",
-0,
-},
-{
-"Texture filtering mode updated.",
-0,
-},
-{
-"Terrain mip level changed to 0.",
-0,
-},
-{
-"Outline mode changed to 2",
-0,
-},
-{
-"Physics interaction level changed to 1",
-0,
-},
-{
-"Render scale changed to 1",
-0,
-},
-{
-"Resample quality changed to 3",
-0,
-},
-{
-"MSAA disabled",
-0,
-},
-{
-"MSAA for alpha-test enabled.",
-0,
-},
-{
-"VALAR mode changed to 0",
-0,
-},
-{
-"lodObjectSizeScale cannot be changed.",
-0,
-},
-{
-"Volume fog enabled.",
-0,
-},
-{
-"dynamicLod enabled",
-0,
-},
-{
-"World preload object sort enabled.",
-0,
-},
-{
-"World load object sort enabled.",
-0,
-},
-{
-"World preload non critical enabled.",
-0,
-},
-{
-"World preload high res textures enabled.",
-0,
-},
-{
-"FFX: Color Blind Test Mode Disabled",
-0,
-},
-{
-"Error display disabled",
-0,
-},
-{
-"Error display shown",
-0,
-},
-{
-"Displaying errors through fatal errors",
-0,
-},
-{
-"Displaying errors through fatal errors",
-0,
-},
-{
-"Now filtering: all messages",
-0,
-},
-{
-"CVar 'Sound_AmbienceHighpassDSPCutoff' failed validation for its initial value.",
-0,
-},
-{
-"CVar 'Sound_AllyPlayerHighpassDSPCutoff' failed validation for its initial value.",
-0,
-},
-{
-"CVar 'Sound_EnemyPlayerHighpassDSPCutoff' failed validation for its initial value.",
-0,
-},
-{
-"CVar 'Sound_NPCHighpassDSPCutoff' failed validation for its initial value.",
-0,
-},
-{
-"ChromaEffects disabled",
-0,
-},
-{
-"[GlueLogin] [F] Starting login launcherPortal=\"eu.actual.battle.net\" loginPortal=\"eu.actual.battle.net:1119\"",
-0,
-},
-{
-"[GlueLogin] [F] Resetting",
-0,
-},
-{
-"[IBN_Login] [F] Initializing",
-0,
-},
-{
-"[IBN_Login] [F] Attempting logon host=\"eu.actual.battle.net\" port=\"1119\"",
-0,
-},
-{
-"[GlueLogin] [F] Waiting for server response.",
-0,
-},
-{
-"[GlueLogin] [F] Waiting for server response.",
-0,
-},
-{
-"[GlueLogin] [F] Waiting for server response.",
-0,
-},
-{
-"[GlueLogin] [F] Logon complete.",
-0,
-},
-{
-"[GlueLogin] [F] Reconnect token saved;  creationTime=\"1729789298\" expirationTime=\"1729803698\"",
-0,
-},
-{
-"[GlueLogin] [F] Waiting for realm list.",
-0,
-},
-{
-"[IBN_Login] [F] Requesting realm list ticket",
-0,
-},
-{
-"[IBN_Login] [F] Received realm list ticket code=\"ERROR_OK (0)\"",
-0,
-},
-{
-"[GlueLogin] [F] Waiting for realm list.",
-0,
-},
-{
-"[IBN_Login] [F] Received sub region list code=\"ERROR_OK (0)\"",
-0,
-},
-{
-"[IBN_Login] [F] Requesting last played chars numSubRegions=\"3\"",
-0,
-},
-{
-"[GlueLogin] [F] Realm list ready.",
-0,
-},
-{
-"[IBN_Login] [F] Joining realm subRegion=\"3-4-89\" realmAddress=\"3-5-12\"",
-0,
-},
-{
-"[IBN_Login] [F] OnRealmJoin code=\"ERROR_OK (0)\"",
-0,
-},
-{
-"NetClient::HandleConnect()\n",
-0,
-},
-{
-"[GlueLogin] [F] Received AuthedToWoW result=\"ERROR_OK (0)\"",
-0,
-},
-{
-"Got new connection 2",
-0,
-},
-{
-"[IBN_Login] [F] Front disconnecting connectionId=\"1\"",
-0,
-},
-{
-"[GlueLogin] [F] Disconnecting from authentication server.",
-0,
-},
-{
-"[IBN_BackInterface] [F] Session with Battle.net established.",
-0,
-},
-{
-"[IBN_Login] [F] Front disconnected connectionId=\"1\" result=\"( code=\"ERROR_NETWORK_MODULE_SOCKET_CLOSED (1016)\" localizedMessage=\"\" debugMessage=\"\")\"",
-0,
-},
-{
-"[GlueLogin] [F] Disconnected from authentication server.",
-0,
-},
-{
-"[WowEntitlements] [BNetAccount-0-000007632046] [WowAccount-0-0000026D2D6A] Initialized with 57 entitlements.",
-0,
-},
-{
-"-------------------------------------------------- Previous Session --------------------------------------------------",
-0,
-},
-{
-"Got new connection 3",
-0,
-},
-{
-"Proficiency in item class 2 set to 0x0000000001",
-0,
-},
-{
-"Proficiency in item class 2 set to 0x0000008001",
-0,
-},
-{
-"Proficiency in item class 4 set to 0x0000000021",
-0,
-},
-{
-"Proficiency in item class 2 set to 0x000000c001",
-0,
-},
-{
-"Proficiency in item class 2 set to 0x000004c001",
-0,
-},
-{
-"Proficiency in item class 4 set to 0x0000000025",
-0,
-},
-{
-"Proficiency in item class 2 set to 0x000004c005",
-0,
-},
-{
-"Proficiency in item class 2 set to 0x000004c00d",
-0,
-},
-{
-"Proficiency in item class 2 set to 0x000004e00d",
-0,
-},
-{
-"Proficiency in item class 2 set to 0x000014e00d",
-0,
-},
-{
-"Proficiency in item class 2 set to 0x000014e01d",
-0,
-},
-{
-"Proficiency in item class 2 set to 0x000014e09d",
-0,
-},
-{
-"Proficiency in item class 4 set to 0x0000000027",
-0,
-},
-{
-"Proficiency in item class 2 set to 0x000014e09d",
-0,
-},
-{
-"Proficiency in item class 4 set to 0x0000000027",
-0,
-},
-{
-"Weather changed to 1, intensity 0.000000\n",
-0,
-},
-{
-"Time set to 10/24/2024 (Thu) 19:01",
-0,
-},
-{
-"Gamespeed set from 0.017 to 0.017",
-0,
-},
-{
-"Got new connection 3",
-0,
-},
-{
-"Weather changed to 1, intensity 0.000000\n",
-0,
-},
-{
-"World transfer pending...",
-0,
-},
-{
-"Got new connection 3",
-0,
-},
-{
-"Weather changed to 1, intensity 0.000000\n",
-0,
-},
-{
-"World transfer pending...",
-0,
-},
-{
-"Got new connection 3",
-0,
-},
-{
-"Weather changed to 1, intensity 0.000000\n",
-0,
-},
-{
-"-------------------------------------------------- Previous Session --------------------------------------------------",
-0,
-},
-{
-"-------------------------------------------------- Previous Session --------------------------------------------------",
-0,
-},
-{
-"Attempted to register existing command: ShowObjUsage\n",
-0,
-},
-{
-"Attempted to register existing command: SetDifficulty\n",
-0,
-},
-{
-"Got new connection 3",
-0,
-},
-{
-"Proficiency in item class 2 set to 0x0000000040",
-0,
-},
-{
-"Proficiency in item class 2 set to 0x0000008040",
-0,
-},
-{
-"Proficiency in item class 4 set to 0x0000000021",
-0,
-},
-{
-"Proficiency in item class 2 set to 0x000000c040",
-0,
-},
 {
 "Proficiency in item class 2 set to 0x000000c440",
 0,
@@ -4382,10 +4003,465 @@ Blizzard_Console_SavedVars = {
 "[WowEntitlements] [BNetAccount-0-000007632046] [WowAccount-0-0000026D2D6A] Initialized with 58 entitlements.",
 0,
 },
+{
+"-------------------------------------------------- Previous Session --------------------------------------------------",
+0,
 },
-["height"] = 300,
-["fontHeight"] = 14,
+{
+"Got new connection 3",
+0,
+},
+{
+"Proficiency in item class 2 set to 0x0000000001",
+0,
+},
+{
+"Proficiency in item class 2 set to 0x0000008001",
+0,
+},
+{
+"Proficiency in item class 4 set to 0x0000000021",
+0,
+},
+{
+"Proficiency in item class 2 set to 0x000000c001",
+0,
+},
+{
+"Proficiency in item class 2 set to 0x000004c001",
+0,
+},
+{
+"Proficiency in item class 4 set to 0x0000000025",
+0,
+},
+{
+"Proficiency in item class 2 set to 0x000004c005",
+0,
+},
+{
+"Proficiency in item class 2 set to 0x000004c00d",
+0,
+},
+{
+"Proficiency in item class 2 set to 0x000004e00d",
+0,
+},
+{
+"Proficiency in item class 2 set to 0x000014e00d",
+0,
+},
+{
+"Proficiency in item class 2 set to 0x000014e01d",
+0,
+},
+{
+"Proficiency in item class 2 set to 0x000014e09d",
+0,
+},
+{
+"Proficiency in item class 4 set to 0x0000000027",
+0,
+},
+{
+"Proficiency in item class 2 set to 0x000014e09d",
+0,
+},
+{
+"Proficiency in item class 4 set to 0x0000000027",
+0,
+},
+{
+"Weather changed to 1, intensity 0.000000\n",
+0,
+},
+{
+"Time set to 10/25/2024 (Fri) 9:16",
+0,
+},
+{
+"Gamespeed set from 0.017 to 0.017",
+0,
+},
+{
+"Got new connection 3",
+0,
+},
+{
+"Weather changed to 1, intensity 0.123073\n",
+0,
+},
+{
+"Weather changed to 1, intensity 0.000000\n",
+0,
+},
+{
+"Test CVar test_cameraDynamicPitch has been set to 1 (default 0.000000)",
+0,
+},
+{
+"Test CVar test_cameraOverShoulder has been set to 0.10338241356348 (default 0.000000)",
+0,
+},
+{
+"Test CVar test_cameraOverShoulder has been set to 0.20673396249839 (default 0.000000)",
+0,
+},
+{
+"Test CVar test_cameraOverShoulder has been set to 0.31002379139071 (default 0.000000)",
+0,
+},
+{
+"Test CVar test_cameraOverShoulder has been set to 0.41322106325287 (default 0.000000)",
+0,
+},
+{
+"Test CVar test_cameraOverShoulder has been set to 0.52565813465795 (default 0.000000)",
+0,
+},
+{
+"Test CVar test_cameraOverShoulder has been set to 0.62856236421915 (default 0.000000)",
+0,
+},
+{
+"Test CVar test_cameraOverShoulder has been set to 0.73127893764773 (default 0.000000)",
+0,
+},
+{
+"Test CVar test_cameraOverShoulder has been set to 0.83377718910046 (default 0.000000)",
+0,
+},
+{
+"Test CVar test_cameraOverShoulder has been set to 0.93602651791373 (default 0.000000)",
+0,
+},
+{
+"Test CVar test_cameraOverShoulder has been set to 1.0379963977393 (default 0.000000)",
+0,
+},
+{
+"Test CVar test_cameraOverShoulder has been set to 1.139656385658 (default 0.000000)",
+0,
+},
+{
+"Test CVar test_cameraOverShoulder has been set to 1.2409761312681 (default 0.000000)",
+0,
+},
+{
+"Test CVar test_cameraOverShoulder has been set to 1.3419253857469 (default 0.000000)",
+0,
+},
+{
+"Test CVar test_cameraOverShoulder has been set to 1.4515938829056 (default 0.000000)",
+0,
+},
+{
+"Test CVar test_cameraOverShoulder has been set to 1.5516712261566 (default 0.000000)",
+0,
+},
+{
+"Test CVar test_cameraOverShoulder has been set to 1.6512853208295 (default 0.000000)",
+0,
+},
+{
+"Test CVar test_cameraOverShoulder has been set to 1.7504064273206 (default 0.000000)",
+0,
+},
+{
+"Test CVar test_cameraOverShoulder has been set to 1.8490049532065 (default 0.000000)",
+0,
+},
+{
+"Test CVar test_cameraOverShoulder has been set to 1.9470514620796 (default 0.000000)",
+0,
+},
+{
+"Test CVar test_cameraOverShoulder has been set to 2.0445166823356 (default 0.000000)",
+0,
+},
+{
+"Test CVar test_cameraOverShoulder has been set to 2.1413715159133 (default 0.000000)",
+0,
+},
+{
+"Test CVar test_cameraOverShoulder has been set to 2.2375870469809 (default 0.000000)",
+0,
+},
+{
+"Test CVar test_cameraOverShoulder has been set to 2.3417865671429 (default 0.000000)",
+0,
+},
+{
+"Test CVar test_cameraOverShoulder has been set to 2.4365727874069 (default 0.000000)",
+0,
+},
+{
+"Test CVar test_cameraOverShoulder has been set to 2.5306315733667 (default 0.000000)",
+0,
+},
+{
+"Test CVar test_cameraOverShoulder has been set to 2.6239348439454 (default 0.000000)",
+0,
+},
+{
+"Test CVar test_cameraOverShoulder has been set to 2.7164547436239 (default 0.000000)",
+0,
+},
+{
+"Test CVar test_cameraOverShoulder has been set to 2.8081636507572 (default 0.000000)",
+0,
+},
+{
+"Test CVar test_cameraOverShoulder has been set to 2.8990341858204 (default 0.000000)",
+0,
+},
+{
+"Test CVar test_cameraOverShoulder has been set to 2.9890392195833 (default 0.000000)",
+0,
+},
+{
+"Test CVar test_cameraOverShoulder has been set to 3.0781518812091 (default 0.000000)",
+0,
+},
+{
+"Test CVar test_cameraOverShoulder has been set to 3.1743166860071 (default 0.000000)",
+0,
+},
+{
+"Test CVar test_cameraOverShoulder has been set to 3.2614778316342 (default 0.000000)",
+0,
+},
+{
+"Test CVar test_cameraOverShoulder has been set to 3.34766526908 (default 0.000000)",
+0,
+},
+{
+"Test CVar test_cameraOverShoulder has been set to 3.4328532672443 (default 0.000000)",
+0,
+},
+{
+"Test CVar test_cameraOverShoulder has been set to 3.5170163934076 (default 0.000000)",
+0,
+},
+{
+"Test CVar test_cameraOverShoulder has been set to 3.6001295208241 (default 0.000000)",
+0,
+},
+{
+"Test CVar test_cameraOverShoulder has been set to 3.6821678362231 (default 0.000000)",
+0,
+},
+{
+"Test CVar test_cameraOverShoulder has been set to 3.7631068472172 (default 0.000000)",
+0,
+},
+{
+"Test CVar test_cameraOverShoulder has been set to 3.842922389614 (default 0.000000)",
+0,
+},
+{
+"Test CVar test_cameraOverShoulder has been set to 3.9286845820667 (default 0.000000)",
+0,
+},
+{
+"Test CVar test_cameraOverShoulder has been set to 4.0060744560771 (default 0.000000)",
+0,
+},
+{
+"Test CVar test_cameraOverShoulder has been set to 4.0822683239595 (default 0.000000)",
+0,
+},
+{
+"Test CVar test_cameraOverShoulder has been set to 4.1572434381756 (default 0.000000)",
+0,
+},
+{
+"Test CVar test_cameraOverShoulder has been set to 4.2309774150433 (default 0.000000)",
+0,
+},
+{
+"Test CVar test_cameraOverShoulder has been set to 4.3034482414203 (default 0.000000)",
+0,
+},
+{
+"Test CVar test_cameraOverShoulder has been set to 4.3938228684358 (default 0.000000)",
+0,
+},
+{
+"Test CVar test_cameraOverShoulder has been set to 4.4633430396119 (default 0.000000)",
+0,
+},
+{
+"Test CVar test_cameraOverShoulder has been set to 4.5315306879692 (default 0.000000)",
+0,
+},
+{
+"Test CVar test_cameraOverShoulder has been set to 4.5983654562114 (default 0.000000)",
+0,
+},
+{
+"Test CVar test_cameraOverShoulder has been set to 4.6638273909417 (default 0.000000)",
+0,
+},
+{
+"Test CVar test_cameraOverShoulder has been set to 4.7278969486205 (default 0.000000)",
+0,
+},
+{
+"Test CVar test_cameraOverShoulder has been set to 4.7961805414386 (default 0.000000)",
+0,
+},
+{
+"Test CVar test_cameraOverShoulder has been set to 4.8572774508913 (default 0.000000)",
+0,
+},
+{
+"Test CVar test_cameraOverShoulder has been set to 4.9169242291346 (default 0.000000)",
+0,
+},
+{
+"Test CVar test_cameraOverShoulder has been set to 4.9751030687329 (default 0.000000)",
+0,
+},
+{
+"Test CVar test_cameraOverShoulder has been set to 5.0317966005011 (default 0.000000)",
+0,
+},
+{
+"Test CVar test_cameraOverShoulder has been set to 5.0869878986902 (default 0.000000)",
+0,
+},
+{
+"Test CVar test_cameraOverShoulder has been set to 5.1406604860399 (default 0.000000)",
+0,
+},
+{
+"Test CVar test_cameraOverShoulder has been set to 5.1927983386985 (default 0.000000)",
+0,
+},
+{
+"Test CVar test_cameraOverShoulder has been set to 5.2433858910064 (default 0.000000)",
+0,
+},
+{
+"Test CVar test_cameraOverShoulder has been set to 5.2967864626554 (default 0.000000)",
+0,
+},
+{
+"Test CVar test_cameraOverShoulder has been set to 5.3440842239381 (default 0.000000)",
+0,
+},
+{
+"Test CVar test_cameraOverShoulder has been set to 5.3897865187486 (default 0.000000)",
+0,
+},
+{
+"Test CVar test_cameraOverShoulder has been set to 5.4338797027512 (default 0.000000)",
+0,
+},
+{
+"Test CVar test_cameraOverShoulder has been set to 5.4763506120072 (default 0.000000)",
+0,
+},
+{
+"Test CVar test_cameraOverShoulder has been set to 5.5171865669052 (default 0.000000)",
+0,
+},
+{
+"Test CVar test_cameraOverShoulder has been set to 5.5563753759462 (default 0.000000)",
+0,
+},
+{
+"Test CVar test_cameraOverShoulder has been set to 5.5939053393837 (default 0.000000)",
+0,
+},
+{
+"Test CVar test_cameraOverShoulder has been set to 5.6297652527165 (default 0.000000)",
+0,
+},
+{
+"Test CVar test_cameraOverShoulder has been set to 5.6669679037101 (default 0.000000)",
+0,
+},
+{
+"Test CVar test_cameraOverShoulder has been set to 5.6993018888033 (default 0.000000)",
+0,
+},
+{
+"Test CVar test_cameraOverShoulder has been set to 5.7299343578467 (default 0.000000)",
+0,
+},
+{
+"Test CVar test_cameraOverShoulder has been set to 5.7588561655731 (default 0.000000)",
+0,
+},
+{
+"Test CVar test_cameraOverShoulder has been set to 5.7860586774304 (default 0.000000)",
+0,
+},
+{
+"Test CVar test_cameraOverShoulder has been set to 5.8115337721589 (default 0.000000)",
+0,
+},
+{
+"Test CVar test_cameraOverShoulder has been set to 5.835273844216 (default 0.000000)",
+0,
+},
+{
+"Test CVar test_cameraOverShoulder has been set to 5.8572718060472 (default 0.000000)",
+0,
+},
+{
+"Test CVar test_cameraOverShoulder has been set to 5.8775210902016 (default 0.000000)",
+0,
+},
+{
+"Test CVar test_cameraOverShoulder has been set to 5.8976097676746 (default 0.000000)",
+0,
+},
+{
+"Test CVar test_cameraOverShoulder has been set to 5.9141838064424 (default 0.000000)",
+0,
+},
+{
+"Test CVar test_cameraOverShoulder has been set to 5.9289921765609 (default 0.000000)",
+0,
+},
+{
+"Test CVar test_cameraOverShoulder has been set to 5.9420304570184 (default 0.000000)",
+0,
+},
+{
+"Test CVar test_cameraOverShoulder has been set to 5.9532947552604 (default 0.000000)",
+0,
+},
+{
+"Test CVar test_cameraOverShoulder has been set to 5.9627817083516 (default 0.000000)",
+0,
+},
+{
+"Test CVar test_cameraOverShoulder has been set to 5.9704884839795 (default 0.000000)",
+0,
+},
+{
+"Test CVar test_cameraOverShoulder has been set to 5.9764127813005 (default 0.000000)",
+0,
+},
+{
+"Test CVar test_cameraOverShoulder has been set to 5.9805528316267 (default 0.000000)",
+0,
+},
+{
+"Test CVar test_cameraOverShoulder has been set to 5.9830328855992 (default 0.000000)",
+0,
+},
+{
+"Test CVar test_cameraOverShoulder has been set to 5.9835053098202 (default 0.000000)",
+0,
+},
+},
 ["isShown"] = false,
+["fontHeight"] = 14,
 ["commandHistory"] = {
 },
 }

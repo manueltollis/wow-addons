@@ -3,8 +3,8 @@ MapPinEnhancedDB = {
 ["trackerVisible"] = false,
 ["minimapIcon"] = {
 ["minimapPos"] = 45,
-["hide"] = false,
 ["lock"] = false,
+["hide"] = false,
 },
 ["trackerPosition"] = {
 ["y"] = -384,
@@ -13,13 +13,22 @@ MapPinEnhancedDB = {
 ["superTrackingOther"] = true,
 ["tracker"] = {
 ["lockTracker"] = false,
-["trackerScale"] = 1,
-["trackerHeight"] = 7,
 ["showNumbering"] = true,
+["trackerHeight"] = 7,
+["trackerScale"] = 1,
 ["backgroundOpacity"] = 0,
 ["autoVisibility"] = "none",
 },
 ["version"] = 305,
+["general"] = {
+["autoTrackNearestPin"] = true,
+},
+["floatingPin"] = {
+["unlimitedDistance"] = true,
+["showEstimatedTime"] = true,
+["showTitle"] = true,
+["blockWorldQuestTracking"] = false,
+},
 ["storedPins"] = {
 {
 ["mapID"] = 2339,
@@ -32,14 +41,5 @@ MapPinEnhancedDB = {
 ["y"] = 0.5597958564758301,
 ["texture"] = "trading-post-minimap-icon",
 },
-},
-["floatingPin"] = {
-["showEstimatedTime"] = true,
-["unlimitedDistance"] = true,
-["showTitle"] = true,
-["blockWorldQuestTracking"] = false,
-},
-["general"] = {
-["autoTrackNearestPin"] = true,
 },
 }

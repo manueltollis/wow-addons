@@ -2,13 +2,6 @@
 ElvCharacterDB = {
 ["ConvertKeybindings"] = true,
 ["ChatEditHistory"] = {
-"d'altronde cose come i ring son più difficili",
-"quanto stai di ilvl ora",
-"/cw Nostradamos-Pozzodell'Eternità quando hai 2 neuroni succede quello",
-"/raid MIKKTO",
-"/raid MY DEAR",
-"/raid WHAT DO YOU THINK ABOUT BORIS JOHNSON",
-"/cw Otinan-Pozzodell'Eternità ma va",
 "/cw Otinan-Pozzodell'Eternità te stai imparando il fight",
 "/cw Otinan-Pozzodell'Eternità è tosta sta merda",
 "/cw Otinan-Pozzodell'Eternità ma non è vero",
@@ -22,6 +15,13 @@ ElvCharacterDB = {
 "/p però ci sono",
 "/p stacca a breve",
 "/p hi!",
+"/cw Wideshaman-Pozzodell'Eternità DUCE",
+"/cw Wideshaman-Pozzodell'Eternità non ho la cam sul fisso",
+"/cw Wideshaman-Pozzodell'Eternità 3=====D",
+"/cw Wideshaman-Pozzodell'Eternità ottimo",
+"/cw Wideshaman-Pozzodell'Eternità si",
+"/cw Wideshaman-Pozzodell'Eternità balla",
+"/cw Wideshaman-Pozzodell'Eternità discord",
 },
 ["ChatHistoryLog"] = {
 },

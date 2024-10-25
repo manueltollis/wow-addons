@@ -53,37 +53,18 @@ NarcissusDB = {
 ["TranslateName"] = false,
 ["TalentTreeUseClassBackground"] = false,
 ["installTime"] = 1725380708,
+["Version"] = 10000,
 ["HideTextsWithUI"] = false,
-["GlobalScale"] = 0.8,
 ["AutoPlayAnimation"] = false,
 ["AFKScreen"] = true,
-["FontHeightItemName"] = 10,
+["ConduitTooltip"] = false,
 ["AKFScreenDelay"] = false,
-["Version"] = 10000,
-["EnableDoubleTap"] = false,
-["SoloQueueLFRDetails"] = true,
-["Tutorials"] = {
-["ExitConfirmation"] = true,
-["Movement"] = true,
-["SpellVisualBrowser"] = true,
-["NPCBrowserEntance"] = true,
-["WeaponBrowser"] = true,
-["NPCBrowser"] = true,
-},
+["GlobalScale"] = 0.8,
+["UseEntranceVisual"] = true,
+["UseEscapeButton"] = true,
+["SpeedyScreenshotAlert"] = true,
 ["TalentTreeForEquipmentManager"] = true,
-["IndependentMinimapButton"] = false,
-["AnchorToMinimap"] = true,
-["NamePlateNameOffset"] = 0,
-["MinimapIconStyle"] = 1,
-["OnlyShowOwnedUpgradeItem"] = true,
-["GemManager"] = true,
-["ModelPanelScale"] = 1,
-["TooltipTheme"] = "Bright",
-["AutoDisplayQuestItem"] = false,
-["CameraOrbit"] = true,
-["TalentTreeForInspection"] = true,
-["AutoFilterGem"] = false,
-["TalentTreeForPaperDoll"] = false,
+["TalentTreeAnchor"] = 1,
 ["PerksProgramDB"] = {
 ["MonthNames"] = {
 {
@@ -155,7 +136,7 @@ NarcissusDB = {
 [812] = "::description::Warm and cozy, and highly sought after.::price::40::transmogSetID::0::perksVendorCategoryID::1::mountID::0::itemModifiedAppearanceID::222965::name::Ugly White Boots::speciesID::0::itemID::226368::addedDate::2024/22::",
 [820] = "::description::Crafted long ago for each of the clan kings, the dark iron mace was lost for ages amidst many internal struggles.::price::100::transmogSetID::0::perksVendorCategoryID::1::mountID::0::itemModifiedAppearanceID::222979::name::Dark Iron Battle Mace::speciesID::0::itemID::226389::addedDate::2024/22::",
 [828] = "::description::These pests are known for their cantankerous attitudes and affinity for nesting in the smokestacks of Undermine, much to the locals dismay.::price::200::transmogSetID::0::perksVendorCategoryID::3::mountID::0::itemModifiedAppearanceID::0::name::Soot-Stained Shalewing::speciesID::3542::itemID::205148::addedDate::2024/22::",
-[97] = "::description::Countless demons have fallen to the crude yet deadly battlescythes forged by Gaal.::price::85::transmogSetID::0::perksVendorCategoryID::1::mountID::0::itemModifiedAppearanceID::168277::name::Krokul Battlescythe::speciesID::0::itemID::190132::addedDate::2024/22::",
+[200] = "::description::The finest of gloves for the finest of occasions. Don't paint any eggs with these gloves on.::price::100::transmogSetID::0::perksVendorCategoryID::1::mountID::0::itemModifiedAppearanceID::169093::name::Fine White Evening Gloves::speciesID::0::itemID::190886::addedDate::2024/22::",
 [817] = "::description::Dispel the darkness with every incantation.::price::50::transmogSetID::0::perksVendorCategoryID::1::mountID::0::itemModifiedAppearanceID::222974::name::Wand of the Bright Shadow::speciesID::0::itemID::226384::addedDate::2024/22::",
 [542] = "::description::Carved from smoothed Talasite, these stones were reclaimed by Lantresor after assuming leadership of the Burning Blade clan.::price::200::transmogSetID::0::perksVendorCategoryID::1::mountID::0::itemModifiedAppearanceID::193821::name::Blademaster's Lively Stones::speciesID::0::itemID::210867::addedDate::2024/21::",
 [638] = "::description::A favorite of swashbucklers, a shoulder could be discarded to leave a sword arm free for boarding.::price::75::transmogSetID::0::perksVendorCategoryID::1::mountID::0::itemModifiedAppearanceID::194947::name::Dueler's Midnight Shoulder Cape::speciesID::0::itemID::212628::addedDate::2024/22::",
@@ -166,7 +147,7 @@ NarcissusDB = {
 [805] = "::description::A favorite when trading in the northern mountains.::price::100::transmogSetID::0::perksVendorCategoryID::1::mountID::0::itemModifiedAppearanceID::193817::name::Trader's Snowy Sarong::speciesID::0::itemID::210862::addedDate::2024/22::",
 [813] = "::description::A simple tabard for drab occasions.::price::100::transmogSetID::0::perksVendorCategoryID::1::mountID::0::itemModifiedAppearanceID::222966::name::Classic Faded Tabard::speciesID::0::itemID::226369::addedDate::2024/22::",
 [821] = "::description::Crafted long ago in the Great Forge, this weapon was wielded by Khardros Wildhammer's greatest champions.::price::100::transmogSetID::0::perksVendorCategoryID::1::mountID::0::itemModifiedAppearanceID::222980::name::Aerie Battle Mace::speciesID::0::itemID::226390::addedDate::2024/22::",
-[200] = "::description::The finest of gloves for the finest of occasions. Don't paint any eggs with these gloves on.::price::100::transmogSetID::0::perksVendorCategoryID::1::mountID::0::itemModifiedAppearanceID::169093::name::Fine White Evening Gloves::speciesID::0::itemID::190886::addedDate::2024/22::",
+[97] = "::description::Countless demons have fallen to the crude yet deadly battlescythes forged by Gaal.::price::85::transmogSetID::0::perksVendorCategoryID::1::mountID::0::itemModifiedAppearanceID::168277::name::Krokul Battlescythe::speciesID::0::itemID::190132::addedDate::2024/22::",
 },
 ["CurrentMonthData"] = {
 ["items"] = {
@@ -207,21 +188,40 @@ NarcissusDB = {
 ["month"] = 22,
 },
 },
-["TalentTreeAnchor"] = 1,
-["SpeedyScreenshotAlert"] = true,
-["UseEscapeButton"] = true,
-["UseEntranceVisual"] = true,
+["NamePlateNameOffset"] = 0,
+["TalentTreeForPaperDoll"] = false,
+["AutoFilterGem"] = false,
+["GemManager"] = true,
+["ModelPanelScale"] = 1,
+["TooltipTheme"] = "Bright",
+["AutoDisplayQuestItem"] = false,
+["CameraOrbit"] = true,
+["TalentTreeForInspection"] = true,
+["OnlyShowOwnedUpgradeItem"] = true,
+["MinimapIconStyle"] = 1,
+["AnchorToMinimap"] = true,
+["IndependentMinimapButton"] = false,
+["Tutorials"] = {
+["ExitConfirmation"] = true,
+["Movement"] = true,
+["SpellVisualBrowser"] = true,
+["NPCBrowserEntance"] = true,
+["NPCBrowser"] = true,
+["WeaponBrowser"] = true,
+},
+["SoloQueueLFRDetails"] = true,
+["EnableDoubleTap"] = false,
 ["SearchSuggestEnable"] = true,
-["ConduitTooltip"] = false,
+["FontHeightItemName"] = 10,
 ["DressingRoomUseTargetModel"] = true,
 }
 NarciAchievementOptions = {
 ["UseAsDefault"] = false,
-["IncompleteFirst"] = true,
+["ShowRedMark"] = false,
 ["Scale"] = 1,
 ["ReplaceToast"] = true,
 ["Theme"] = 1,
-["ShowRedMark"] = false,
+["IncompleteFirst"] = true,
 }
 NarciStatisticsDB = {
 ["InstalledDate"] = 1725380709,
@@ -229,6 +229,7 @@ NarciStatisticsDB = {
 },
 ["TimeSpentInNarcissus"] = 40734,
 ["AddOnActionForbidden"] = {
+["timeLastError"] = 1727466530,
 ["addons"] = {
 ["ElvUI"] = {
 ["count"] = 3,
@@ -239,7 +240,6 @@ NarciStatisticsDB = {
 ["timeLastError"] = 1727466530,
 },
 },
-["timeLastError"] = 1727466530,
 },
 }
 NarciTurntableOptions = nil
@@ -291,7 +291,7 @@ NarciCharacterProfiles = {
 ["name"] = "Jitana",
 ["birth"] = 1725380709,
 ["serverID"] = "1309",
-["lastVisit"] = 1729795760,
+["lastVisit"] = 1729800959,
 ["outfits"] = {
 {
 ["s"] = "77344,31941,77345,31935,0,0,81348,32837,84223,32836,32840,66546,66546",
@@ -330,12 +330,12 @@ NarciCharacterProfiles = {
 },
 ["class"] = 1,
 },
-["0D0A1AFB"] = {
+["0D07B6E2"] = {
 ["race"] = 1,
 ["name"] = "Morgiana",
-["birth"] = 1728855042,
+["birth"] = 1728226049,
 ["serverID"] = "1309",
-["lastVisit"] = 1729793336,
+["lastVisit"] = 1728232088,
 ["outfits"] = {
 },
 ["class"] = 8,
@@ -382,12 +382,12 @@ NarciCharacterProfiles = {
 },
 ["class"] = 11,
 },
-["0D07B6E2"] = {
+["0D0A1AFB"] = {
 ["race"] = 1,
 ["name"] = "Morgiana",
-["birth"] = 1728226049,
+["birth"] = 1728855042,
 ["serverID"] = "1309",
-["lastVisit"] = 1728232088,
+["lastVisit"] = 1729793336,
 ["outfits"] = {
 },
 ["class"] = 8,
