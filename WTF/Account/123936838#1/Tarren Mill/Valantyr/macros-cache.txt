@@ -1,0 +1,9 @@
+VER 3 0100000000000001 "cd" "INV_MISC_QUESTIONMARK"
+/cast Berserk
+/use 13
+/use 14
+/cast Berserking
+END
+VER 3 0100000000000002 "trinket" "INV_MISC_QUESTIONMARK"
+/use 13
+END

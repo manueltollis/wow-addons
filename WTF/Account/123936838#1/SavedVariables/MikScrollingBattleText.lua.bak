@@ -1,0 +1,21 @@
+
+MSBTProfiles_SavedVars = {
+["profiles"] = {
+["Default"] = {
+["scrollAreas"] = {
+["Incoming"] = {
+["disabled"] = true,
+},
+},
+["creationVersion"] = "6.2",
+["enableBlizzardDamage"] = true,
+},
+},
+["userDisabled"] = true,
+}
+MSBT_SavedMedia = {
+["fonts"] = {
+},
+["sounds"] = {
+},
+}

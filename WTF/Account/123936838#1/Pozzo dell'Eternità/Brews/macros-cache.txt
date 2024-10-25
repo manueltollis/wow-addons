@@ -1,0 +1,23 @@
+VER 3 0100000000000004 "ASDASD" "INV_MISC_QUESTIONMARK"
+/Y PORCODIO
+END
+VER 3 0100000000000003 "detox" "INV_MISC_QUESTIONMARK"
+/cast [target=mouseover] Detox
+END
+VER 3 0100000000000005 "K" "INV_Misc_QuestionMark"
+/s k
+END
+VER 3 0100000000000008 "KAKATTE KOI" "INV_MISC_QUESTIONMARK"
+#showtooltip
+/y KAKATTE KOI
+/cast Flying Serpent Kick
+END
+VER 3 0100000000000007 "TRINKET" "INV_Misc_QuestionMark"
+#SHOWTOOLTIP
+/use 13
+/use 14
+END
+VER 3 0100000000000009 "weapons" "572034"
+/equipslot 16 Battlefell Sabre of the Quickblade
+/equipslot 17 Dimensional Blade of the Quickblade
+END

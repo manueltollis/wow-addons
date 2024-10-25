@@ -1,0 +1,29 @@
+VER 3 0000000000000009 "clear flares" "135767"
+/cwm [mod]all
+END
+VER 3 0000000000000007 "flare green" "135751"
+/wm [@cursor] 2
+END
+VER 3 0000000000000005 "flare green" "135744"
+/wm [@cursor] 1
+END
+VER 3 0000000000000008 "flare purple" "135741"
+/wm [@cursor] 3
+END
+VER 3 0000000000000006 "flare yellow" "135747"
+/wm [@cursor] 4
+END
+VER 3 0000000000000001 "Leave delve" "134328"
+/run C_PartyInfo.DelveTeleportOut()
+END
+VER 3 0000000000000003 "Open old renown" "135754"
+/run ShowGarrisonLandingPage()
+END
+VER 3 0000000000000004 "RANDOMTOY" "INV_MISC_QUESTIONMARK"
+#showtooltip Never Ending Toy Chest
+/randomtoy check
+/cast Robo-Gnomebulator
+END
+VER 3 0000000000000002 "show bis" "1125255"
+/bis
+END

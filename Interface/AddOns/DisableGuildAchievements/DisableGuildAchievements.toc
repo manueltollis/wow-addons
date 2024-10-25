@@ -1,0 +1,10 @@
+## Interface: 11005
+## Title: Disable Guild Achievements
+## Notes: Disables guild achievement notifications.
+## Author: Master Stormrage of The Brotherhood of Steel
+## Version: 1.42
+## Updated engine to disable only certain guild achievement popups and sounds 
+## When /dga is used and toggled on, suppression is active.
+## When /dga is used and toggled off, suppression is disabled, allowing the notifications to appear.
+
+DisableGuildAchievements.lua

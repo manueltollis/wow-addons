@@ -1,0 +1,9 @@
+## Interface: 110002
+## Title: Best In Slot Redux [|cffff975bThe War Within-M+|r|r]
+## Notes: The War Within Mythic+ Module for BestInSlotRedux
+## Author: Beleria @ Argent Dawn-EU, Anhility @ Ravencrest-EU, Sar\195\173th @ Tarren Mill-EU, Swarley @ Burning Legion-NA, Dioxina @ Antonidas-EU
+## Version: v11.0.2
+## Dependencies: BestInSlotRedux
+## IconTexture: Interface\ICONS\Achievement_bg_most_damage_killingblow_dieleast.blp
+
+TWWM+S1.lua

@@ -1,0 +1,91 @@
+VER 3 010000000000000F "1shot" "INV_MISC_QUESTIONMARK"
+#showtooltip
+/castsequence Mortal Strik,  Thunder Clap, Whirlwind
+END
+VER 3 0100000000000006 "charge" "INV_MISC_QUESTIONMARK"
+#showtooltip Charge
+/cast Charge
+/cast Hamstring
+END
+VER 3 0100000000000004 "Focus" "INV_MISC_QUESTIONMARK"
+#showtooltip Storm Bolt
+/cancelaura bladestorm
+/cast [target=focus]Storm Bolt
+END
+VER 3 0100000000000003 "Focus Pummel" "INV_MISC_QUESTIONMARK"
+#showtooltip Pummel
+/cancelaura Bladestorm
+/cast [target=focus]Pummel
+END
+VER 3 0100000000000005 "Intervene" "INV_MISC_QUESTIONMARK"
+#showtooltip
+/targetfriend
+/cast Intervene
+/targetlasttarget
+END
+VER 3 010000000000000E "maybenot" "INV_MISC_QUESTIONMARK"
+#showtooltip
+/target Maybenot
+/cancelaura Bladestorm
+/cast Vigilance
+/targetlasttarget
+END
+VER 3 0100000000000002 "Pummel" "INV_MISC_QUESTIONMARK"
+#showtooltip Pummel
+/cancelaura Bladestorm
+/cast Pummel
+END
+VER 3 010000000000000B "Raid" "INV_MISC_QUESTIONMARK"
+#showtooltip Rallying Cry
+/cancelaura Bladestorm
+/cast Rallying Cry
+END
+VER 3 0100000000000007 "Rallying Cry" "INV_MISC_QUESTIONMARK"
+#showtooltip Rallying Cry
+/cast Rallying Cry
+/cast Commanding Shout
+/use Healthstone
+/use Master Healing Potion
+/use Alliance Battle Standard
+END
+VER 3 0100000000000008 "Recklessness" "INV_MISC_QUESTIONMARK"
+#showtooltip Recklessness
+/cast Avatar
+/cast Recklessness
+/cast Bloodbath
+/use 13
+/use 14
+/cast Sweeping Strikes
+/cast Execute
+END
+VER 3 0100000000000001 "sarumac" "INV_MISC_QUESTIONMARK"
+/target Caccìatrice
+/cancelaura Bladestorm
+/cast Vigilance
+END
+VER 3 0100000000000009 "Shattering Throw" "INV_MISC_QUESTIONMARK"
+#showtooltip Shattering Throw
+/cancelaura bladestorm
+/cast Shattering Throw
+END
+VER 3 0100000000000010 "storm roar" "INV_MISC_QUESTIONMARK"
+#showtooltip
+/cast Storm Bolt
+/cast Dragon Roar
+END
+VER 3 010000000000000D "Target" "INV_MISC_QUESTIONMARK"
+#showtooltip Storm Bolt
+/cancelaura bladestorm
+/cast [target=target]Storm Bolt
+END
+VER 3 010000000000000A "Victory Rush" "INV_MISC_QUESTIONMARK"
+#showtooltip Victory Rush
+/cancelaura Bladestorm
+/cancelaura Hand of Protection
+/cast Victory Rush
+END
+VER 3 010000000000000C "Vigilance" "INV_MISC_QUESTIONMARK"
+#showtooltip Vigilance
+/cancelaura Bladestorm
+/cast Vigilance
+END

@@ -1,0 +1,28 @@
+
+ElvCharacterDB = {
+["ConvertKeybindings"] = true,
+["ChatEditHistory"] = {
+"/reload",
+"dps healer",
+"vorrei venire col dudu",
+"non hai altro a giocare?",
+"/p sorry",
+"/p was chatting",
+"/p lesgosky",
+"/p move out",
+"/p and the health",
+"/p he cannot click lol",
+"/p can we regroup",
+"/p and go slow and steady?",
+"/p jesus",
+"/DANCE",
+"/p hello",
+"/pull 10",
+"/p hello!",
+"/wa",
+"/cw Mcßlackwar-Pozzodell'Eternità ciao! Si l'hanno appena messa nello shop",
+"/cw Mcßlackwar-Pozzodell'Eternità è un reskin di quella vecchia",
+},
+["ChatHistoryLog"] = {
+},
+}

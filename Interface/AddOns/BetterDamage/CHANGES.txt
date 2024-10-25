@@ -1,0 +1,10 @@
+lightweight tag fe45f8d123e4f3a828ecbfbdb7e8a930df97662f 1.0.1-retail
+Author:	Joshua Dooley <josh.dooley@gmail.com>
+Date:	Tue Oct 13 12:03:52 2020 -0500
+
+commit fe45f8d123e4f3a828ecbfbdb7e8a930df97662f
+Author: Joshua Dooley <josh.dooley@gmail.com>
+Date:   Tue Oct 13 12:03:52 2020 -0500
+
+    Updated toc version, removed versioning print
+

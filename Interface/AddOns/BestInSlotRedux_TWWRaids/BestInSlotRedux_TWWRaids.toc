@@ -1,0 +1,9 @@
+## Interface: 110002
+## Title: Best In Slot Redux [|cffff975bThe War Within|r|r]
+## Notes: The War Within Raid Module for BestInSlotRedux
+## Author: Beleria @ Argent Dawn-EU, Anhility @ Ravencrest-EU, Sar\195\173th @ Tarren Mill-EU, Swarley @ Burning Legion-NA, Dioxina @ Antonidas-EU
+## Version: v11.0.2
+## Dependencies: BestInSlotRedux
+## IconTexture: Interface\ICONS\Achievement_bg_most_damage_killingblow_dieleast.blp
+
+NerubArPalace.lua

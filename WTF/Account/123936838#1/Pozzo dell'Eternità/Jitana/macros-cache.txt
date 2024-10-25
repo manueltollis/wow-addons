@@ -1,0 +1,43 @@
+VER 3 010000000000000F "ambush mutilate" "134400"
+/cast [stance:3] Ambush
+/cast [stance:2] Ambush
+/cast [stance:1] Ambush
+/cast [stance:0] Mutilate
+END
+VER 3 010000000000000D "Between the eyes" "134400"
+#showtooltip Between the Eyes
+/cast ghostly strike
+/cast Between the eyes
+END
+VER 3 010000000000000E "Dispatch" "134400"
+#showtooltip Dispatch
+/cast Ghostly Strike
+/cast Dispatch
+END
+VER 3 0100000000000010 "KINGSBANE" "134400"
+#showtooltip Kingsbane
+/y BRANCALEONE PRENDITI QUESTO VELENO NEL CULOOOOOOOO
+/cast Kingsbane
+END
+VER 3 0100000000000012 "offensive" "134400"
+#showtooltip Deathmark
+/use Tempered Potion
+/use 13
+/use 14
+/cast Deathmark
+END
+VER 3 010000000000000C "PICK POCKEETTT" "134400"
+/console set targetnearestdistance 10
+/cleartarget
+/targetenemy [target=target, noexists]
+/cast pick pocket
+END
+VER 3 0100000000000007 "trick" "INV_MISC_QUESTIONMARK"
+#showtooltip
+/cast [target=focus] Tricks of the Trade
+/cast Tricks of the Trade
+/targetlasttarget
+END
+VER 3 0100000000000011 "venoms" "1398089"
+/castsequence reset=30 Deadly Poison, Atrophic Poison, Amplifying Poison, Crippling Poison
+END
