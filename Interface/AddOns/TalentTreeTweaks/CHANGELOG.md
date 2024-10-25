@@ -1,6 +1,7 @@
 # Talent Tree Tweaks
 
-## [v1.12.21](https://github.com/NumyAddon/TalentTreeTweaks/tree/v1.12.21) (2024-09-18)
-[Full Changelog](https://github.com/NumyAddon/TalentTreeTweaks/compare/v1.12.20...v1.12.21) [Previous Releases](https://github.com/NumyAddon/TalentTreeTweaks/releases)
+## [v1.12.22](https://github.com/NumyAddon/TalentTreeTweaks/tree/v1.12.22) (2024-10-23)
+[Full Changelog](https://github.com/NumyAddon/TalentTreeTweaks/compare/v1.12.21...v1.12.22) [Previous Releases](https://github.com/NumyAddon/TalentTreeTweaks/releases)
 
-- Fix compatibility issues with Prat  
+- TOC Bump  
+- Fixed a typo  

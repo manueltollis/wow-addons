@@ -1,4 +1,6 @@
 @cont1nuity:
+- Fixing performance units.
+- Fixing aura frame 1 frame levels.
 - Fixing DBM integration.
 - Fixing default 'Countdown' and 'Fixate on you' scripts.
 - Adding LibCustomGlow 'proc' glow support.
