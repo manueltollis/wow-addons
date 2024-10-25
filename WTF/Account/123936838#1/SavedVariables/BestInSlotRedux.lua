@@ -22,9 +22,9 @@ BestInSlotDB = {
 ["Jitana - Pozzo dell'Eternità"] = {
 ["windowpos"] = {
 ["xOffset"] = -5.999716281890869,
-["relativePoint"] = "CENTER",
-["point"] = "CENTER",
 ["yOffset"] = 5.000004291534424,
+["point"] = "CENTER",
+["relativePoint"] = "CENTER",
 },
 ["options"] = {
 ["overviewfilter"] = {
@@ -113,9 +113,7 @@ true,
 true,
 true,
 },
-["Guild BiS lists"] = {
-true,
-true,
+["Custom Items"] = {
 true,
 true,
 },
@@ -124,7 +122,9 @@ true,
 true,
 true,
 },
-["Custom Items"] = {
+["Guild BiS lists"] = {
+true,
+true,
 true,
 true,
 },
@@ -136,8 +136,8 @@ true,
 ["Brews - Pozzo dell'Eternità"] = "Brews - Pozzo dell'Eternità",
 ["Tane - Pozzo dell'Eternità"] = "Tane - Pozzo dell'Eternità",
 ["Morgiana - Pozzo dell'Eternità"] = "Morgiana - Pozzo dell'Eternità",
-["Valantyr - Tarren Mill"] = "Valantyr - Tarren Mill",
 ["Jitane - Pozzo dell'Eternità"] = "Jitane - Pozzo dell'Eternità",
+["Valantyr - Tarren Mill"] = "Valantyr - Tarren Mill",
 ["Jitana - Pozzo dell'Eternità"] = "Jitana - Pozzo dell'Eternità",
 },
 ["factionrealm"] = {
@@ -649,8 +649,8 @@ nil,
 ["global"] = {
 ["customitems"] = {
 ["NaP"] = {
-["item:219331::::::::80:259:::::::::"] = true,
 ["item:219334::::::::80:259:::::::::"] = true,
+["item:219331::::::::80:259:::::::::"] = true,
 },
 },
 },
@@ -663,9 +663,9 @@ nil,
 },
 ["Morgiana - Pozzo dell'Eternità"] = {
 },
-["Valantyr - Tarren Mill"] = {
-},
 ["Jitane - Pozzo dell'Eternità"] = {
+},
+["Valantyr - Tarren Mill"] = {
 },
 ["Jitana - Pozzo dell'Eternità"] = {
 },

@@ -78,19 +78,6 @@ OmniCDDB = {
 ["statusBarWidth"] = 220,
 },
 },
-["general"] = {
-["showPlayerEx"] = false,
-},
-["icons"] = {
-["scale"] = 1,
-},
-["position"] = {
-["offsetX"] = 2,
-["paddingY"] = 0,
-["columns"] = 5,
-["paddingX"] = 2,
-["uf"] = "ElvUI",
-},
 ["manualPos"] = {
 [5] = {
 ["y"] = 384.3555214597109,
@@ -105,22 +92,23 @@ OmniCDDB = {
 ["x"] = 436.9776147478115,
 },
 },
+["icons"] = {
+["scale"] = 1,
 },
-["visibilit"] = {
-["arena"] = false,
-["scenario"] = true,
-["finder"] = false,
+["position"] = {
+["offsetX"] = 2,
+["paddingY"] = 0,
+["columns"] = 5,
+["paddingX"] = 2,
+["uf"] = "ElvUI",
+},
+["general"] = {
+["showPlayerEx"] = false,
+},
 },
 ["arena"] = {
-["manualPos"] = {
-["interruptBar"] = {
-["y"] = 384.3555214597109,
-["x"] = 682.3111276328564,
-},
-["raidCDBar"] = {
-["y"] = 384.3555214597109,
-["x"] = 682.3111276328564,
-},
+["general"] = {
+["zoneSelected"] = "party",
 },
 ["icons"] = {
 ["scale"] = 1.1,
@@ -132,11 +120,42 @@ OmniCDDB = {
 ["attach"] = "TOPLEFT",
 ["preset"] = "TOPLEFT",
 },
-["general"] = {
-["zoneSelected"] = "party",
+["manualPos"] = {
+["raidCDBar"] = {
+["y"] = 384.3555214597109,
+["x"] = 682.3111276328564,
 },
+["interruptBar"] = {
+["y"] = 384.3555214597109,
+["x"] = 682.3111276328564,
+},
+},
+},
+["visibilit"] = {
+["arena"] = false,
+["scenario"] = true,
+["finder"] = false,
 },
 ["scenarioZoneSetting"] = "party",
+},
+["Default"] = {
+["Party"] = {
+["party"] = {
+["general"] = {
+["showPlayer"] = true,
+},
+["manualPos"] = {
+["raidCDBar"] = {
+["y"] = 384.3555214597109,
+["x"] = 682.3111276328564,
+},
+["interruptBar"] = {
+["y"] = 384.3555214597109,
+["x"] = 682.3111276328564,
+},
+},
+},
+},
 },
 ["General"] = {
 ["fonts"] = {
@@ -159,25 +178,6 @@ OmniCDDB = {
 },
 },
 ["notifyNew"] = true,
-},
-["Default"] = {
-["Party"] = {
-["party"] = {
-["general"] = {
-["showPlayer"] = true,
-},
-["manualPos"] = {
-["interruptBar"] = {
-["y"] = 384.3555214597109,
-["x"] = 682.3111276328564,
-},
-["raidCDBar"] = {
-["y"] = 384.3555214597109,
-["x"] = 682.3111276328564,
-},
-},
-},
-},
 },
 },
 },

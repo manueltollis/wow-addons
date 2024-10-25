@@ -6,21 +6,21 @@ TalentTreeTweaksDB = {
 ["InspectDiff"] = {
 ["colorYellow"] = {
 ["a"] = 0.75,
-["b"] = 0,
-["g"] = 0.67,
 ["r"] = 1,
+["g"] = 0.67,
+["b"] = 0,
 },
 ["colorGreen"] = {
 ["a"] = 0.58,
-["b"] = 0.3,
-["g"] = 1,
 ["r"] = 0,
+["g"] = 1,
+["b"] = 0.3,
 },
 ["colorRed"] = {
 ["a"] = 0.5,
-["b"] = 0,
-["g"] = 0,
 ["r"] = 1,
+["g"] = 0,
+["b"] = 0,
 },
 ["enableTalentTreeViewerDiff"] = true,
 },
@@ -30,41 +30,41 @@ TalentTreeTweaksDB = {
 ["SearchForIds"] = {
 },
 ["UnlockRestrictions"] = {
-["unlockShareButton"] = true,
 ["unlockInCombatSpending"] = true,
+["unlockShareButton"] = true,
 },
 ["MiniTreeInTooltip"] = {
-["diffOrange"] = {
-["b"] = 0,
+["diffGreen"] = {
+["r"] = 0,
 ["g"] = 1,
-["r"] = 1,
+["b"] = 0,
 },
 ["displayStyle"] = "simple-default-diff",
-["upgradedDisplayStyle"] = 1,
-["diffRed"] = {
-["b"] = 0,
-["g"] = 0,
+["diffOrange"] = {
 ["r"] = 1,
+["g"] = 1,
+["b"] = 0,
+},
+["diffRed"] = {
+["r"] = 1,
+["g"] = 0,
+["b"] = 0,
 },
 ["scale"] = 1,
 ["inactiveSubTreeAlpha"] = 0.5,
 ["diffYellow"] = {
-["b"] = 1,
-["g"] = 1,
 ["r"] = 1,
-},
-["diffGreen"] = {
-["b"] = 0,
 ["g"] = 1,
-["r"] = 0,
+["b"] = 1,
 },
+["upgradedDisplayStyle"] = 1,
 },
 ["ReduceTaint"] = {
 ["disableMultiActionBarShowHide"] = true,
 },
 ["ExportInspectedBuild"] = {
-["exportOnDropdownRightClick"] = true,
 ["showLinkInChatButton"] = true,
+["exportOnDropdownRightClick"] = true,
 },
 ["TooltipIds"] = {
 ["professionTooltip"] = {
@@ -94,16 +94,15 @@ TalentTreeTweaksDB = {
 },
 ["CopyTalentButtonInfo"] = {
 },
-["ImportIntoCurrentLoadout"] = {
-["defaultCheckboxState"] = false,
-["unlockImportButton"] = true,
+["AlwaysShowGates"] = {
+["shiftHeroTrees"] = false,
 },
 ["HighlightCascadeRepurchable"] = {
 ["color"] = {
 ["a"] = 0.5,
-["b"] = 1,
-["g"] = 0,
 ["r"] = 0,
+["g"] = 0,
+["b"] = 1,
 },
 },
 ["Skyriding Auto Purchaser"] = {
@@ -112,14 +111,12 @@ TalentTreeTweaksDB = {
 ["surgeCache"] = {
 ["Morgiana-Pozzo dell'Eternità"] = 1,
 },
-["rideAlong"] = 1,
 ["rideAlongCache"] = {
 ["Morgiana-Pozzo dell'Eternità"] = 1,
 },
+["rideAlong"] = 1,
 },
-["MiscFixes"] = {
-["dropdownUpdateOnLoadConfigFix"] = true,
-["linkChoiceNodeInChatFix"] = true,
+["HeroTalents"] = {
 },
 ["DebugNodeInfo"] = {
 ["addButtonToTable"] = true,
@@ -134,10 +131,13 @@ TalentTreeTweaksDB = {
 ["ScaleTalentFrame"] = {
 ["scale"] = 1,
 },
-["HeroTalents"] = {
+["MiscFixes"] = {
+["dropdownUpdateOnLoadConfigFix"] = true,
+["linkChoiceNodeInChatFix"] = true,
 },
-["AlwaysShowGates"] = {
-["shiftHeroTrees"] = false,
+["ImportIntoCurrentLoadout"] = {
+["defaultCheckboxState"] = false,
+["unlockImportButton"] = true,
 },
 },
 }

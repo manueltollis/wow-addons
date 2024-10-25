@@ -5,8 +5,8 @@ HandyNotesDB = {
 ["Brews - Pozzo dell'Eternità"] = "Brews - Pozzo dell'Eternità",
 ["Tane - Pozzo dell'Eternità"] = "Tane - Pozzo dell'Eternità",
 ["Valantyr - Tarren Mill"] = "Valantyr - Tarren Mill",
-["Jitane - Pozzo dell'Eternità"] = "Jitane - Pozzo dell'Eternità",
 ["Morgiana - Pozzo dell'Eternità"] = "Morgiana - Pozzo dell'Eternità",
+["Jitane - Pozzo dell'Eternità"] = "Jitane - Pozzo dell'Eternità",
 ["Jitana - Pozzo dell'Eternità"] = "Jitana - Pozzo dell'Eternità",
 },
 ["profiles"] = {
@@ -18,9 +18,9 @@ HandyNotesDB = {
 },
 ["Valantyr - Tarren Mill"] = {
 },
-["Jitane - Pozzo dell'Eternità"] = {
-},
 ["Morgiana - Pozzo dell'Eternità"] = {
+},
+["Jitane - Pozzo dell'Eternità"] = {
 },
 ["Jitana - Pozzo dell'Eternità"] = {
 },
@@ -32,8 +32,8 @@ HandyNotes_HandyNotesDB = {
 ["Brews - Pozzo dell'Eternità"] = "Brews - Pozzo dell'Eternità",
 ["Tane - Pozzo dell'Eternità"] = "Tane - Pozzo dell'Eternità",
 ["Valantyr - Tarren Mill"] = "Valantyr - Tarren Mill",
-["Jitane - Pozzo dell'Eternità"] = "Jitane - Pozzo dell'Eternità",
 ["Morgiana - Pozzo dell'Eternità"] = "Morgiana - Pozzo dell'Eternità",
+["Jitane - Pozzo dell'Eternità"] = "Jitane - Pozzo dell'Eternità",
 ["Jitana - Pozzo dell'Eternità"] = "Jitana - Pozzo dell'Eternità",
 },
 ["profiles"] = {
@@ -45,9 +45,9 @@ HandyNotes_HandyNotesDB = {
 },
 ["Valantyr - Tarren Mill"] = {
 },
-["Jitane - Pozzo dell'Eternità"] = {
-},
 ["Morgiana - Pozzo dell'Eternità"] = {
+},
+["Jitane - Pozzo dell'Eternità"] = {
 },
 ["Jitana - Pozzo dell'Eternità"] = {
 },
